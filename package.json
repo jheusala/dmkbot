@@ -19,7 +19,8 @@
     "irc" : "*",
     "settings" : "*",
     "rssee" : "*",
-    "nor-debug": "*"
+    "nor-debug": "*",
+    "nor-is": "*"
   },
   "devDependencies": {}
 }
