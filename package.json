@@ -5,7 +5,7 @@
   "description": "Simple bot for #node.js",
   "version": "0.0.0",
   "scripts": {
-    "start": "node lib/bot.js"
+    "start": "node bot.js"
   },
   "repository": {
     "url": ""
