@@ -4,6 +4,9 @@
   "private": true,
   "description": "Simple bot for #node.js",
   "version": "0.0.0",
+  "scripts": {
+    "start": "node lib/bot.js"
+  },
   "repository": {
     "url": ""
   },
