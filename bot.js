@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*global Buffer: false, clearInterval: false, clearTimeout: false, console: false, global: false, exports: false, module: false, process: false, querystring: false, require: false, setInterval: false, setTimeout: false, util: false, __filename: false, __dirname: false */
 
 var argv = require('optimist').argv,
