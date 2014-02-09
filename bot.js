@@ -6,5 +6,5 @@ var argv = require('optimist').argv,
     path = require('path'),
     file = path.resolve(argv.config || __dirname + '/config/environment.js'),
     bot_env = argv.env || 'development',
-    settings = new Settings(file).getEnvironment(bot_env),
+    settings = new Settings(file, {'env':bot_env}),
     b = new bot.Bot(settings);
