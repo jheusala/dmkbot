@@ -18,7 +18,8 @@
     "optimist" : "*",
     "irc" : "*",
     "settings" : "*",
-    "rssee" : "*"
+    "rssee" : "*",
+    "nor-debug": "*"
   },
   "devDependencies": {}
 }
